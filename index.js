@@ -19,7 +19,4 @@ function calculate(){
     catch(error){
         display.value = "Error";
     }
-    if("Error" + display.value){
-        display.value = "Error";
-    }
 }
